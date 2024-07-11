@@ -1,0 +1,2 @@
+# Customer sales and marketing performance dashboard
+ This repository contains a Tableau project for visualizing customer sales and campaign data. The dashboard provides insights into consumer distribution by education level, total purchases across different channels, consumer spending across different categories, average income by country, and campaign performance. This project aims to help businesses understand their customer demographics, purchasing behavior, and the effectiveness of marketing campaigns.
